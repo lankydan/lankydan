@@ -1,5 +1,5 @@
 # Dan Newton - A.K.A Lanky Dan
 
-Unfortunately I have nothing creative to add here atm...
+You can find my blog at [lankydan.dev](https://lankydan.dev).
 
-![Sorry by patrick](https://media.giphy.com/media/MarYoZ2BIJUimKydXa/giphy.gif)
+![Lanky Dan .Dev header image](./lanky-dan-dev-header.png)
